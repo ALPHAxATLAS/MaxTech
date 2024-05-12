@@ -1,4 +1,4 @@
-# Our Company Privacy Policy
+# Our Privacy Policy
 
 By using our Discord Bot, various data will be collected.
 This privacy policy explains what data we collect and what we use it for. It also explains how and for what purpose this is done.
