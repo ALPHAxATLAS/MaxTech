@@ -30,10 +30,7 @@ Our Bot stores the following data:
 * `Message-Content` - To be able to run the relevant modules
 * `Text-Channel-IDs` - To identify specific channels that provide a proper usage of the Bot
 
-We securely encrypt your data using [`Argon2`](https://en.wikipedia.org/wiki/Argon2).
-
-This bot will keep your data such as message content for a maximum of 30 minutes if the associated module is enabled.
-Once this period has expired, the bot will automatically delete your data.
+We securely encrypt data like  `Message-Content` using [`Argon2`](https://en.wikipedia.org/wiki/Argon2).
 
 
 # Why do we use your information?
